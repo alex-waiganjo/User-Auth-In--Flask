@@ -1,5 +1,5 @@
-#User Authentication in Flask
-# This is a simple project that covers User Authentication concepts using Flask Microframework.
+# User Authentication in Flask
+## This is a simple project that covers User Authentication concepts using Flask Microframework.
 ## Some of the main Concepts are:
  - Log In
  - Log out
