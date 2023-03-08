@@ -22,5 +22,6 @@ pip install -r requirements.txt
 ```
 ## 4. Run the Application
 ### Windows
-``` Flask run
+``` 
+Flask run
 ```
