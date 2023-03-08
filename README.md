@@ -5,6 +5,7 @@
  - Log out
  - Password encoding(hashing) and decoding
 # Setup and Installation.
+## 1. Cloning the Repository and creating a virtual environment.
  ``` git clone https://github.com/alex-waiganjo/User-Auth-In--Flask.git
      cd User-Auth-In--Flask
      py -3 -m venv venv
