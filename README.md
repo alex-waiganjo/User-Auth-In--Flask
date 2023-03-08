@@ -10,5 +10,17 @@
      cd User-Auth-In--Flask
      py -3 -m venv venv
  ```
-
- 
+## 2. Activate the virtual environment
+### Windows
+```
+venv\Scripts\activate
+```
+## 3. Install the requirements
+### Applies for windows/macOS/Linux
+```
+pip install -r requirements.txt
+```
+## 4. Run the Application
+### Windows
+``` Flask run
+```
